@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Rakesh Chowdary</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshchowdary8&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshchowdary8" /> </p>
+
+
 # 💫 About Me:
 👯 I’m looking to collaborate on Web development and AI projects<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about C and C++<br>
 
@@ -15,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rakeshchowdary8&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
